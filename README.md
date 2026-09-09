@@ -1,2 +1,2 @@
 # animated-telegram
-google.com
+https://google.com
